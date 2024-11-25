@@ -15,7 +15,7 @@ sidebar_position: 3
 /manage/srt_sender_stats
 ```
 
-* [Метрики SRT приемника (SRT Reciever)](#метрики-srt-приемника)
+* [Метрики SRT приемника (SRT Receiver)](#метрики-srt-приемника)
 
 ```
 /manage/srt_receiver_stats
