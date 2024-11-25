@@ -4,12 +4,27 @@ sidebar_position: 3
 
 # Metrics Reference
 
-These metrics monitor the Nimble Streamer instance, allowing you to monitor SRT streams, server status, and resource usage:
+These metrics monitor the Nimble Streamer instance, allowing you to monitor SRT streams, server status, and resource usage.
+
+For getting the the metrics, you can use the following endpoints:
+
+* [SRT Sender Metrics](#srt-sender-metrics)
+
+```
+/manage/srt_sender_stats
+```
 
 * [SRT Receiver Metrics](#srt-receiver-metrics)
-* [SRT Sender Metrics](#srt-sender-metrics)
+
+```
+/manage/srt_receiver_stats
+```
+
 * [Server Status Metrics](#server-status-metrics)
 
+```
+/manage/server_status
+```
 ## SRT Receiver Metrics
 
 | Metric Name                                      | Description                                               |Type      |
