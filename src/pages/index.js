@@ -72,14 +72,8 @@ export default function Home() {
             </section>
 
             <section>
-              <h2>
-                <Translate>Made with Docusaurus</Translate>
-              </h2>
               <p>
-                <Translate>
-                  This documentation is powered by</Translate> <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a>,
-                  <Translate> a modern documentation framework that enables easy content creation and i18n (internationalization) support.
-                </Translate>
+               <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a>
               </p>
             </section>
           </div>

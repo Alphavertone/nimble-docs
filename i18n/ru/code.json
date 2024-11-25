@@ -11,10 +11,10 @@
       "description": "Описание главной страницы"
     },
     "Welcome to the Nimble SRT Prometheus Exporter Documentation": {
-      "message": "Добро пожаловать в документацию Nimble SRT Prometheus Exporter"
+      "message": "Добро пожаловать на сайт документации Nimble SRT Prometheus Exporter"
     },
     "Your go-to guide for understanding and using the Nimble SRT Prometheus Exporter. Supporting both English and Russian languages.": {
-      "message": "Руководство Nimble SRT Prometheus Exporter.Доступно на английском и русском языках."
+      "message": "Руководство Nimble SRT Prometheus Exporter. Доступно на английском и русском языках."
     },
     "About the Project": {
       "message": "О проекте"
@@ -341,20 +341,17 @@
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
-  "theme.tags.tagsPageTitle": {
-    "message": "Tags",
-    "description": "The title of the tag list page"
-  },
   "for building multilingual documentation websites.": {
     "message": "для создания многоязычных документационных сайтов."
   },
   "This is primarily a study documentation project created to demonstrate the use of Docusaurus for building multilingual documentation websites.": {
-    "message": "Это прежде всего учебный проект по документации, созданный для демонстрации использования Docusaurus для создания многоязычных документационных сайтов."
+    "message": "Это прежде всего учебный проект по документации, созданный для демонстрации использования Docusaurus при создании мультиязычной документации."
   },
   "This documentation is powered by": {
     "message": "Эта документация создана с помощью"
   },
-  "a modern documentation framework that enables easy content creation and i18n (internationalization) support.": {
-    "message": "современной системы документации, которая облегчает создание контента и поддерживает i18n (интернационализацию)."
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
   }
 }
